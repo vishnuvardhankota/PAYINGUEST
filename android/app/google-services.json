@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68826039120",
+    "project_id": "payinguest-sorravl",
+    "storage_bucket": "payinguest-sorravl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68826039120:android:9f668935a61ed2090ae255",
+        "android_client_info": {
+          "package_name": "com.sorravl.payinguest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68826039120-gbvlqq8b08gtl5bum304r4cja2qp76ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sorravl.payinguest",
+            "certificate_hash": "1eb7f9a718a4ad48c275fc2bed74ae766143e36b"
+          }
+        },
+        {
+          "client_id": "68826039120-g0qmkfan1i8is35jb12nlmmb1u6vl03n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTIeX1_7GCkVYgo1j_V64YNS9_mE6guT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68826039120-g0qmkfan1i8is35jb12nlmmb1u6vl03n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
