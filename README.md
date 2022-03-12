@@ -50,6 +50,6 @@ This app is used for who is maintaining Hostels/PG's..
 
 
 ## Screenshots
-<img src="https://drive.google.com/file/d/1VlalQSFFMu6CKx48x05w0ugT7SxQzxKr/view" height="500">        <img src="https://drive.google.com/file/d/1VPDUKZg0C6hW0ro4Fh57hHSY7ToEwgsT/view" height="500">
+<img src="https://drive.google.com/file/d/1VlalQSFFMu6CKx48x05w0ugT7SxQzxKr/view" height="500">        <img src="https://drive.google.com/file/d/1VPDUKZg0C6hW0ro4Fh57hHSY7ToEwgsT/view?usp=sharing" height="500">
 
 Feedback is welcome! Contact me for any info.
