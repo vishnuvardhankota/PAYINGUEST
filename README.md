@@ -35,10 +35,9 @@ This app is used for who is maintaining Hostels/PG's..
 - intl: ^0.17.0
 - hexcolor: ^2.0.5
 - loading_indicator: ^3.0.2
-  # sleek_circular_slider: ^2.0.1
+- sleek_circular_slider: ^2.0.1
 - flutter_date_pickers: ^0.2.7
 - pdf: ^3.6.5
-  # save file
 - path_provider: ^2.0.8
 - share_plus: ^3.0.4
 - http: ^0.13.4
@@ -50,7 +49,6 @@ This app is used for who is maintaining Hostels/PG's..
 
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/93028892/158050672-a113a41c-987e-42d7-8e9f-854b3fc34379.gif" height="500">
-<img src="https://user-images.githubusercontent.com/93028892/158009232-8bcdf86b-030c-48ec-82e4-fe2c56c1ac9d.jpg" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158009233-7072e61f-16d9-471f-bfd5-bcfdd3852c44.jpg" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158009192-3d989661-e514-4d2a-a7aa-497507a8aadc.jpg" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158009104-020ad67b-bc48-498f-82ff-1945517c841e.jpg" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158009124-3dbd8985-be18-489f-8ff6-7bd2586c4434.jpg" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158009158-54f3e5cb-1840-4c8f-8ce6-875d40dacce9.jpg" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158009186-85baa9a8-9f8c-4e6e-bc01-0a13013bbf0c.jpg.jpg" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158009197-d92ee0d8-e72d-4cb4-952d-23b30bb2e712.jpg" height="500">        
+<img src="https://user-images.githubusercontent.com/93028892/158050672-a113a41c-987e-42d7-8e9f-854b3fc34379.gif" height="500">    <img src="https://user-images.githubusercontent.com/93028892/158050736-78bcc6f8-c631-4fae-bdd5-c96ef3afbe58.gif" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158050782-ae45740a-a9a5-4a26-a2f2-f0ddef6eaeef.gif" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158050817-64117d8c-0d37-4e81-964e-b3cbeb193d1c.gif" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158050851-0248c5f6-2190-48d5-963c-88530bd8d85c.gif" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158050876-587cdfa1-1072-4fef-9c50-0f1f7117d274.gif" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158051031-76abc390-a3f9-4ceb-8ef1-f5d31072d97c.gif" height="500">              
 
-Feedback is welcome! Contact me for any info.
+Your Feedback makes me strong.
