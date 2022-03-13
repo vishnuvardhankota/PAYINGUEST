@@ -29,7 +29,7 @@ This app is used for who is maintaining Hostels/PG's..
 - image_cropper: ^1.4.1
 - cached_network_image: ^3.2.0
 - flutter_native_image: ^0.0.6+1
-
+  # Other packages
 - page_transition: ^2.0.4
 - flutter_phone_direct_caller: ^2.1.0
 - intl: ^0.17.0
