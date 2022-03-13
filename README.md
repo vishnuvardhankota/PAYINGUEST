@@ -1,4 +1,4 @@
-# PAYINGUEST APP
+# PAYINGUEST APP (65% Completed as per Estimated development)
 
 This app is used for who is maintaining Hostels/PG's..
 
