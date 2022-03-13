@@ -15,6 +15,7 @@ This app is used for who is maintaining Hostels/PG's..
 9.Can add the manager to particular Hostel/PG
 
 ## Dependencies
+- This packages used for development
  # StateManagement
 - provider: ^6.0.1
 
